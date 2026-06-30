@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+
+# Salesforce CLI local state (not source)
+salesforce/.sf/
+salesforce/.sfdx/
+# Custom labels file holds the push shared secret in plaintext — keep it out
+# of git/Heroku. It is deployed to the org directly from the working copy.
+salesforce/force-app/main/default/labels/CustomLabels.labels-meta.xml
