@@ -9,6 +9,7 @@
     <fieldPermissions><editable>true</editable><field>Account.Cluster_Group__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.Latitude__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.Longitude__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Account.Offering_Description__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Contact.Delivery_Address__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Contact.Allergies__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Contact.Preferences__c</field><readable>true</readable></fieldPermissions>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Offering_Description__c</fullName>
+    <label>Offering Description</label>
+    <type>Html</type>
+    <length>32768</length>
+    <visibleLines>10</visibleLines>
+    <description>Rich-text description of the restaurant's offering — cuisine, signature dishes, and what makes it stand out. Used for customer-facing summaries.</description>
+</CustomField>
