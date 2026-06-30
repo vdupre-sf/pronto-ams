@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>dschaerer@salesforce.com</contactEmail>
+    <distributionState>Local</distributionState>
+    <isProtected>false</isProtected>
+    <label>Data360 MCP</label>
+    <orgScopedExternalApp>00DDQ0000008gxj:Data360_MCP</orgScopedExternalApp>
+</ExternalClientApplication>

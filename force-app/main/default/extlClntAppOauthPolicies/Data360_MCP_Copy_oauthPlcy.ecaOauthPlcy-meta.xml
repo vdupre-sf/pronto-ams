@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppOauthConfigurablePolicies xmlns="http://soap.sforce.com/2006/04/metadata">
+    <clientCredentialsFlowUser>jocelyn.gross.37936@salesforce.com.l3sandbox</clientCredentialsFlowUser>
+    <externalClientApplication>Data360_MCP_Copy</externalClientApplication>
+    <ipRelaxationPolicyType>Bypass</ipRelaxationPolicyType>
+    <isClientCredentialsFlowEnabled>true</isClientCredentialsFlowEnabled>
+    <isGuestCodeCredFlowEnabled>false</isGuestCodeCredFlowEnabled>
+    <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
+    <label>Data360_MCP_Copy_oauthPlcy</label>
+    <permittedUsersPolicyType>AllSelfAuthorized</permittedUsersPolicyType>
+    <refreshTokenPolicyType>Infinite</refreshTokenPolicyType>
+    <requiredSessionLevel>STANDARD</requiredSessionLevel>
+</ExtlClntAppOauthConfigurablePolicies>
