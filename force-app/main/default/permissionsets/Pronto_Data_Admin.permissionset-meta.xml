@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Pronto Data Admin</label>
+    <description>Full read/edit access to PRonto group-ordering objects and fields, used to load and maintain test data.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <fieldPermissions><editable>true</editable><field>Account.Restaurant_Address__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Account.Restaurant_Type__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Account.Customer_Rating__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Account.Cluster_Group__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Account.Latitude__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Account.Longitude__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Contact.Delivery_Address__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Contact.Allergies__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Contact.Preferences__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Contact.Loyalty_Tier__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Dish__c.Price__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Dish__c.Category__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Dish__c.Available__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Dish__c.Prep_Time_Minutes__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Dish__c.Allergens__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Driver__c.Available__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Driver__c.Phone__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Driver__c.Current_Latitude__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Driver__c.Current_Longitude__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Driver__c.Vehicle_Plate__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Driver__c.Vehicle_Type__c</field><readable>true</readable></fieldPermissions>
+    <recordTypeVisibilities><recordType>Account.Restaurant</recordType><visible>true</visible></recordTypeVisibilities>
+    <objectPermissions><allowCreate>true</allowCreate><allowDelete>true</allowDelete><allowEdit>true</allowEdit><allowRead>true</allowRead><modifyAllRecords>true</modifyAllRecords><object>Dish__c</object><viewAllRecords>true</viewAllRecords></objectPermissions>
+    <objectPermissions><allowCreate>true</allowCreate><allowDelete>true</allowDelete><allowEdit>true</allowEdit><allowRead>true</allowRead><modifyAllRecords>true</modifyAllRecords><object>Driver__c</object><viewAllRecords>true</viewAllRecords></objectPermissions>
+</PermissionSet>

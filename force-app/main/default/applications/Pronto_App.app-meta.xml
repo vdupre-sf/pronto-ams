@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Pronto App</label>
+    <description>Operational workspace for the Pronto group-ordering solution: restaurants, customers, dishes, and drivers.</description>
+    <uiType>Lightning</uiType>
+    <navType>Standard</navType>
+    <formFactors>Large</formFactors>
+    <brand>
+        <headerColor>#E2483D</headerColor>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>Dish__c</tabs>
+    <tabs>Driver__c</tabs>
+</CustomApplication>

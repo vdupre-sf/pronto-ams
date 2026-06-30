@@ -1,0 +1,51 @@
+FirstName,LastName,Email,Phone,Delivery_Address__c,Allergies__c,Preferences__c
+Sanne,de Vries,sanne.vries1@example.com,+31620709497,"222 Damrak, 1022 AB Amsterdam",,Loves spicy
+Daan,Jansen,daan.jansen2@example.com,+31670855700,"214 Prinsengracht, 1056 AB Amsterdam",,
+Emma,van Dijk,emma.dijk3@example.com,+31657683626,"172 Herengracht, 1044 AB Amsterdam",Gluten;Soy,Loves spicy
+Lucas,Bakker,lucas.bakker4@example.com,+31695225343,"137 Kalverstraat, 1041 AB Amsterdam",,Loves spicy
+Julia,Visser,julia.visser5@example.com,+31660929647,"237 Leidsestraat, 1091 AB Amsterdam",Eggs,Low-budget
+Sem,Smit,sem.smit6@example.com,+31617507864,"211 Rokin, 1014 AB Amsterdam",Soy,Loves spicy
+Tess,Meijer,tess.meijer7@example.com,+31618883684,"234 Nieuwezijds Voorburgwal, 1082 AB Amsterdam",Shellfish,Loves spicy
+Finn,Mulder,finn.mulder8@example.com,+31697971488,"102 Spuistraat, 1092 AB Amsterdam",Dairy,Prefers fast delivery
+Sara,de Boer,sara.boer9@example.com,+31643101783,"144 Utrechtsestraat, 1078 AB Amsterdam",,
+Bram,Bos,bram.bos10@example.com,+31688461803,"230 Haarlemmerstraat, 1084 AB Amsterdam",,Prefers fast delivery
+Lotte,Vos,lotte.vos11@example.com,+31639436733,"131 Jodenbreestraat, 1073 AB Amsterdam",,Loves spicy
+Thomas,Peters,thomas.peters12@example.com,+31616323852,"40 Weteringschans, 1090 AB Amsterdam",,Vegetarian-friendly
+Anna,Hendriks,anna.hendriks13@example.com,+31666661351,"17 Vijzelstraat, 1059 AB Amsterdam",,Family portions
+Milan,van Leeuwen,milan.leeuwen14@example.com,+31672820592,"65 Ferdinand Bolstraat, 1080 AB Amsterdam",Gluten,Family portions
+Eva,Dekker,eva.dekker15@example.com,+31682070937,"197 Overtoom, 1092 AB Amsterdam",,Low-budget
+Noah,Brouwer,noah.brouwer16@example.com,+31649392920,"41 Wibautstraat, 1068 AB Amsterdam",,Prefers fast delivery
+Fleur,de Wit,fleur.wit17@example.com,+31645351479,"196 Czaar Peterstraat, 1032 AB Amsterdam",Soy,Family portions
+Liam,Dijkstra,liam.dijkstra18@example.com,+31695758349,"156 Javastraat, 1035 AB Amsterdam",,Family portions
+Sophie,Smits,sophie.smits19@example.com,+31631682744,"245 Bilderdijkstraat, 1077 AB Amsterdam",Eggs;Shellfish,Family portions
+Levi,de Graaf,levi.graaf20@example.com,+31612614124,"238 Van Woustraat, 1056 AB Amsterdam",Shellfish,Vegetarian-friendly
+Mila,de Vries,mila.vries21@example.com,+31617774584,"225 Damrak, 1082 AB Amsterdam",Sesame,Loves spicy
+Jesse,Jansen,jesse.jansen22@example.com,+31619289546,"197 Prinsengracht, 1026 AB Amsterdam",,Family portions
+Nora,van Dijk,nora.dijk23@example.com,+31673791320,"43 Herengracht, 1043 AB Amsterdam",Fish;Gluten,Family portions
+Ruben,Bakker,ruben.bakker24@example.com,+31682383095,"177 Kalverstraat, 1035 AB Amsterdam",Eggs,
+Roos,Visser,roos.visser25@example.com,+31668800797,"116 Leidsestraat, 1025 AB Amsterdam",,Family portions
+Tim,Smit,tim.smit26@example.com,+31618593410,"6 Rokin, 1085 AB Amsterdam",Shellfish;Nuts,Low-budget
+Lara,Meijer,lara.meijer27@example.com,+31619528530,"162 Nieuwezijds Voorburgwal, 1017 AB Amsterdam",,
+Stijn,Mulder,stijn.mulder28@example.com,+31614216175,"19 Spuistraat, 1075 AB Amsterdam",,Low-budget
+Maud,de Boer,maud.boer29@example.com,+31699788677,"55 Utrechtsestraat, 1079 AB Amsterdam",,Prefers fast delivery
+Gijs,Bos,gijs.bos30@example.com,+31686644106,"122 Haarlemmerstraat, 1041 AB Amsterdam",Shellfish,Family portions
+Femke,Vos,femke.vos31@example.com,+31622660194,"169 Jodenbreestraat, 1065 AB Amsterdam",,Vegetarian-friendly
+Niels,Peters,niels.peters32@example.com,+31665177213,"222 Weteringschans, 1016 AB Amsterdam",Gluten;Nuts,Prefers fast delivery
+Iris,Hendriks,iris.hendriks33@example.com,+31664038913,"87 Vijzelstraat, 1023 AB Amsterdam",,
+Sven,van Leeuwen,sven.leeuwen34@example.com,+31635529407,"115 Ferdinand Bolstraat, 1027 AB Amsterdam",,Family portions
+Lieke,Dekker,lieke.dekker35@example.com,+31647385696,"64 Overtoom, 1019 AB Amsterdam",,Prefers fast delivery
+Bas,Brouwer,bas.brouwer36@example.com,+31683863413,"13 Wibautstraat, 1093 AB Amsterdam",Gluten,Vegetarian-friendly
+Esther,de Wit,esther.wit37@example.com,+31641726318,"105 Czaar Peterstraat, 1072 AB Amsterdam",Nuts,Loves spicy
+Joost,Dijkstra,joost.dijkstra38@example.com,+31632097220,"1 Javastraat, 1059 AB Amsterdam",,Prefers fast delivery
+Marit,Smits,marit.smits39@example.com,+31671070189,"109 Bilderdijkstraat, 1099 AB Amsterdam",Sesame;Gluten,Low-budget
+Pim,de Graaf,pim.graaf40@example.com,+31635487660,"56 Van Woustraat, 1017 AB Amsterdam",Nuts;Eggs,Low-budget
+Yara,de Vries,yara.vries41@example.com,+31652091325,"13 Damrak, 1084 AB Amsterdam",Dairy;Nuts,Vegetarian-friendly
+Koen,Jansen,koen.jansen42@example.com,+31678159587,"218 Prinsengracht, 1033 AB Amsterdam",,Vegetarian-friendly
+Sterre,van Dijk,sterre.dijk43@example.com,+31619121552,"221 Herengracht, 1040 AB Amsterdam",,
+Wout,Bakker,wout.bakker44@example.com,+31686460539,"149 Kalverstraat, 1086 AB Amsterdam",,Loves spicy
+Britt,Visser,britt.visser45@example.com,+31621003626,"169 Leidsestraat, 1084 AB Amsterdam",Soy,Prefers fast delivery
+Teun,Smit,teun.smit46@example.com,+31637415205,"184 Rokin, 1050 AB Amsterdam",,
+Noor,Meijer,noor.meijer47@example.com,+31663121477,"172 Nieuwezijds Voorburgwal, 1092 AB Amsterdam",,Loves spicy
+Jens,Mulder,jens.mulder48@example.com,+31652436584,"3 Spuistraat, 1068 AB Amsterdam",Gluten;Nuts,Vegetarian-friendly
+Amber,de Boer,amber.boer49@example.com,+31682160068,"130 Utrechtsestraat, 1043 AB Amsterdam",,Loves spicy
+Floris,Bos,floris.bos50@example.com,+31656843172,"226 Haarlemmerstraat, 1041 AB Amsterdam",,Vegetarian-friendly

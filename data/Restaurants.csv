@@ -1,0 +1,21 @@
+Name,Restaurant_Address__c,Restaurant_Type__c,Customer_Rating__c,Cluster_Group__c,RecordTypeId
+Taj Palace,"7 Damrak, 1045 AB Amsterdam",Indian,4.4,Amsterdam-Centrum-Cluster,012DQ000000Vy0rYAC
+Golden Dragon,"36 Prinsengracht, 1023 AB Amsterdam",Chinese,3.8,Amsterdam-Centrum-Cluster,012DQ000000Vy0rYAC
+Bella Napoli,"229 Herengracht, 1079 AB Amsterdam",Pizza,4.4,Amsterdam-Centrum-Cluster,012DQ000000Vy0rYAC
+Burger Boulevard,"109 Kalverstraat, 1014 AB Amsterdam",Burger,3.6,Amsterdam-Centrum-Cluster,012DQ000000Vy0rYAC
+Sakura Sushi,"56 Leidsestraat, 1039 AB Amsterdam",Sushi,3.5,Amsterdam-Centrum-Cluster,012DQ000000Vy0rYAC
+Bangkok Bites,"7 Rokin, 1081 AB Amsterdam",Thai,4.2,,012DQ000000Vy0rYAC
+El Sombrero,"167 Nieuwezijds Voorburgwal, 1099 AB Amsterdam",Mexican,3.8,,012DQ000000Vy0rYAC
+Trattoria Roma,"57 Spuistraat, 1067 AB Amsterdam",Italian,4.3,,012DQ000000Vy0rYAC
+Athena Grill,"208 Utrechtsestraat, 1010 AB Amsterdam",Greek,4.3,,012DQ000000Vy0rYAC
+Beirut Garden,"41 Haarlemmerstraat, 1099 AB Amsterdam",Lebanese,4.6,,012DQ000000Vy0rYAC
+Spice Route,"72 Jodenbreestraat, 1029 AB Amsterdam",Indian,4.1,,012DQ000000Vy0rYAC
+Wok This Way,"196 Weteringschans, 1053 AB Amsterdam",Chinese,3.8,,012DQ000000Vy0rYAC
+Pizza Pronto,"98 Vijzelstraat, 1022 AB Amsterdam",Pizza,3.6,,012DQ000000Vy0rYAC
+Patty Stack,"89 Ferdinand Bolstraat, 1087 AB Amsterdam",Burger,4.0,,012DQ000000Vy0rYAC
+Tokyo Table,"12 Overtoom, 1068 AB Amsterdam",Sushi,3.9,,012DQ000000Vy0rYAC
+Chiang Mai Kitchen,"250 Wibautstraat, 1058 AB Amsterdam",Thai,4.3,,012DQ000000Vy0rYAC
+Casa Mexicana,"76 Czaar Peterstraat, 1090 AB Amsterdam",Mexican,3.6,,012DQ000000Vy0rYAC
+Milano Mia,"221 Javastraat, 1056 AB Amsterdam",Italian,4.4,,012DQ000000Vy0rYAC
+Olympus Eats,"181 Bilderdijkstraat, 1018 AB Amsterdam",Greek,4.3,,012DQ000000Vy0rYAC
+Cedar & Sumac,"59 Van Woustraat, 1047 AB Amsterdam",Lebanese,3.6,,012DQ000000Vy0rYAC
