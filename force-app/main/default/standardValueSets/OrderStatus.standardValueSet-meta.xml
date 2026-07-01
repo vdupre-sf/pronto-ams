@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <groupingStringEnum>OrderStatusCode</groupingStringEnum>
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Draft</fullName>
+        <default>false</default>
+        <label>Draft</label>
+        <groupingString>Draft</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Activated</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Activated</label>
+        <groupingString>Activated</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Order Received</fullName>
+        <default>false</default>
+        <label>Order Received</label>
+        <groupingString>Activated</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>In preparation</fullName>
+        <default>false</default>
+        <label>In preparation</label>
+        <groupingString>Activated</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Driving to Customer</fullName>
+        <default>false</default>
+        <label>Driving to Customer</label>
+        <groupingString>Activated</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Delivered to Customer</fullName>
+        <default>false</default>
+        <label>Delivered to Customer</label>
+        <groupingString>Activated</groupingString>
+    </standardValue>
+</StandardValueSet>

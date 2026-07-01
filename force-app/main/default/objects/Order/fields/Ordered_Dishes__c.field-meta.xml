@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ordered_Dishes__c</fullName>
+    <label>Ordered Dishes</label>
+    <description>Summary of the dishes included in this order, captured as free text for quick reference by the kitchen and delivery agent.</description>
+    <inlineHelpText>List each ordered dish, quantity, and any special requests, one per line.</inlineHelpText>
+    <type>LongTextArea</type>
+    <length>32768</length>
+    <visibleLines>5</visibleLines>
+    <trackTrending>false</trackTrending>
+</CustomField>

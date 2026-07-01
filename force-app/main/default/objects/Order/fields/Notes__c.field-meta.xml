@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Notes__c</fullName>
+    <label>Notes</label>
+    <description>Free-form notes about the order, such as delivery instructions, customer remarks, or handling details.</description>
+    <inlineHelpText>Add any additional context about this order that does not fit other fields.</inlineHelpText>
+    <type>LongTextArea</type>
+    <length>32768</length>
+    <visibleLines>5</visibleLines>
+    <trackTrending>false</trackTrending>
+</CustomField>
